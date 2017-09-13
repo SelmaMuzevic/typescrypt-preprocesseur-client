@@ -18,6 +18,7 @@
     },
     "homepage": "https://github.com/SelmaMuzevic/typescrypt-preprocesseur-client#readme",
     "devDependencies": {
+        "jquery": "^3.2.1",
         "ts-loader": "^2.3.7",
         "typescript": "^2.5.2",
         "webpack": "^3.5.6"
